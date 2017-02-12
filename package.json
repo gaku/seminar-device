@@ -1,0 +1,8 @@
+{
+  "name": "mode-sample-device",
+  "version": "1.0.0",
+  "dependencies": {
+    "mode-device" : "~1.1.5"
+  }
+}
+
